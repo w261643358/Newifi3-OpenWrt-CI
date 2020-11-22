@@ -88,6 +88,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-ddns is not set
           # CONFIG_PACKAGE_ddns-scripts_aliyun is not set
           # CONFIG_PACKAGE_ddns-scripts_cloudflare.com-v4 is not set
+          # CONFIG_PACKAGE_luci-app-accesscontrol is not set
           CONFIG_PACKAGE_nginx=y
           CONFIG_PACKAGE_luci-app-upnp=y
           CONFIG_PACKAGE_luci-app-mwan3=y
