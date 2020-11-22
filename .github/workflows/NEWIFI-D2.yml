@@ -74,6 +74,7 @@ jobs:
           CONFIG_PACKAGE_kmod-fs-ntfs=y
           
           # APP
+          # CONFIG_PACKAGE_luci-app-webadmin is not set
           # CONFIG_PACKAGE_luci-app-unblockmusic is not set
           # CONFIG_UnblockNeteaseMusic_Go is not set
           # CONFIG_UnblockNeteaseMusic_NodeJS is not set
