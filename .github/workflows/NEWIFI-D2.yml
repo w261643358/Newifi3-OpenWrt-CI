@@ -85,6 +85,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-unblockmusic is not set
           # CONFIG_UnblockNeteaseMusic_Go is not set
           # CONFIG_UnblockNeteaseMusic_NodeJS is not set
+          # CONFIG_PACKAGE_luci-app-ddns is not set
           # CONFIG_PACKAGE_ddns-scripts_aliyun is not set
           # CONFIG_PACKAGE_ddns-scripts_cloudflare.com-v4 is not set
           CONFIG_PACKAGE_nginx=y
