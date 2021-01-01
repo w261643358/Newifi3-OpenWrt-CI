@@ -85,15 +85,15 @@ jobs:
           # CONFIG_PACKAGE_luci-app-unblockmusic is not set
           # CONFIG_UnblockNeteaseMusic_Go is not set
           # CONFIG_UnblockNeteaseMusic_NodeJS is not set
-          # CONFIG_PACKAGE_luci-app-aliddns is not set
-          CONFIG_PACKAGE_luci-app-ddns=y
-          CONFIG_PACKAGE_ddns-scripts_aliyun=y
-          CONFIG_PACKAGE_ddns-scripts_cloudflare.com-v4=y
+          CONFIG_PACKAGE_luci-app-aliddns is not set
+          # CONFIG_PACKAGE_luci-app-ddns=y
+          # CONFIG_PACKAGE_ddns-scripts_aliyun=y
+          # CONFIG_PACKAGE_ddns-scripts_cloudflare.com-v4=y
           # CONFIG_PACKAGE_luci-app-accesscontrol is not set
           CONFIG_PACKAGE_nginx=y
           CONFIG_PACKAGE_luci-app-upnp=y
           # CONFIG_PACKAGE_luci-app-mwan3 is not set
-          CONFIG_PACKAGE_luci-app-frps=y
+          CONFIG_PACKAGE_luci-app-frpc=y
           CONFIG_PACKAGE_luci-app-vsftpd=y
           CONFIG_PACKAGE_luci-app-samba=y
           CONFIG_PACKAGE_openssh-sftp-server=y
